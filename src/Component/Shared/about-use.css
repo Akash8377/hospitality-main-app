@@ -1,0 +1,96 @@
+/* ShadowBox.css */
+
+.box-container {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 30px;
+    margin-top: 2%;
+    gap:20px
+
+  }
+  
+.shadow-box {
+    flex: 1;
+    padding: 20px;
+    background-color: white;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+}
+.popularjobs-main{
+
+    position: relative;
+    left:45%;
+    margin-top: 2%;
+    padding: 11px 20px 11px 20px;
+    border-radius: 100px;
+    color: #F5A302;
+    background-color: #FFF9EF;
+    border:none
+  }
+.main-headder-about-use{
+    text-align: center;
+    position: relative;
+    left:54%;
+    top:102%;
+    padding: 11px 20px 11px 20px;
+    border-radius: 100px;
+    color: #F5A302;
+    background-color: #FFF9EF;
+    border:none
+}
+.shadow-box-1{
+    text-align: center;
+}
+.third-container-pic{
+    padding-top: 4vw;
+    text-align: center;
+}
+.second-container-pic{
+    padding-top: 4vw;
+}
+.first-container-pic{
+    padding-top: 3vw;
+    text-align: center;
+}
+  
+.main-heading-write-1-1 {
+font-family: Plus Jakarta Sans;
+font-size: 24px;
+font-weight: 700;
+line-height: 30px;
+letter-spacing: 0em;
+text-align: left;
+
+  }
+  .content{
+    margin-left:10%
+  }
+  
+  .text-paragraph {
+    font-family: Plus Jakarta Sans;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 32px;
+    letter-spacing: 0em;
+    text-align: left;
+    color:#70788B;
+  }
+  
+  .learn-more-btn {
+    font-family: Plus Jakarta Sans;
+font-size: 18px;
+font-weight: 600;
+line-height: 32px;
+border: none;
+background: none;
+    color: #A3A3A3;
+    display: flex;
+}
+.image-pic-1{
+    margin-top:20px;
+}
+  
+  .learn-more-btn:hover {
+    background-color: #f0f0f0;
+  }
+  

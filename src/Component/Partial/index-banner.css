@@ -1,0 +1,66 @@
+.index-job-container{
+    text-align: center;
+    align-items: center;
+    padding: 11px 20px 11px 20px;
+    border-radius: 100px;
+    color: #F5A302;
+    background-color: #FFF9EF;
+    border:none
+}
+.text-index-banner{
+    font-family: Plus Jakarta Sans;
+font-size: 48px;
+font-weight: 600;
+line-height: 68px;
+letter-spacing: 0em;
+text-align: center;
+}
+/* .check-banner-index-main-container{
+    flex-direction: column;
+    gap:9vw
+} */
+.check-banner-index{
+    display: flex;
+    margin-left: 8vw;
+    gap:11%
+}
+.image-section-index-bar{
+    margin-left:20px;
+    margin-top: 5%;
+}
+.button-index-business-banner{
+    padding: 11px 20px 11px 20px;
+    border-radius: 100px;
+    color: #F5A302;
+    background-color: #FFF9EF;
+    border:none
+}
+.right{
+    margin-top: 3%;
+}
+.check-banner-index-1{
+    display: flex;
+    margin-left: 8vw;
+    gap:11%;
+    margin-top:3.5%;
+}
+.check-index-banner-main{
+   display: flex;
+   flex-direction: row;
+   font-family: Plus Jakarta Sans;
+font-size: 22px;
+font-weight: 400;
+line-height: 28px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+
+.Index_Banner_Two_Sec-1{
+    text-align: center;
+    padding-top: 3vw;
+}
+.check-index-banner{
+    display: flex;
+   
+}

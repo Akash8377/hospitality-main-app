@@ -1,0 +1,80 @@
+
+.main-navi {
+  position: absolute;
+  display: flex;
+  position: fixed;
+  z-index: 1;
+  height:1000px;
+  width:17.9vw;
+  flex-direction: column;
+  gap: 50px; 
+  background-color: rgba(0, 0, 0, 0.8);
+  padding-left: 25px;
+  color: white;
+}
+.logo-container-main-navi{
+  padding-top: 60px;
+}
+
+.main-navi img {
+  max-width: 200px;
+}
+
+.main-navi a {
+  text-decoration: none;
+  color: white;
+  font-family: Nunito;
+  font-size: 24px;
+  font-weight: 700;
+  transition: opacity 0.3s ease-in-out;
+}
+
+.main-navi a:hover {
+  opacity: 1.7;
+  
+}
+.ai-logo-menu{
+  margin-right:77%;
+  margin-top: 20px;
+  height:50px;
+  width:50px;
+  background: none;
+  border: none;
+
+}
+.ai-logo-menu-1{
+  background: none;
+  border: none;
+  color: white;
+}
+.nav-button{
+  color:white;
+  background-color: rgba(0, 0, 0, 0.8);
+  text-decoration: none;
+  border:none;
+  gap:10px;
+  background: none;
+  cursor: pointer;
+  row-gap: 30px;
+  display: flex;
+  font-family: Nunito;
+font-size: 24px;
+font-weight: 700;
+line-height: 24px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+.overlay {
+  position: fixed;
+  top: 0;
+  left: -100%;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.8);
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: left 0.5s ease-out;
+}
