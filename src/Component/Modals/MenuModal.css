@@ -1,26 +1,26 @@
-/* MenuModal.css */
+
 .vertical-menu {
   display: flex;
   flex-direction: column;
   align-items: flex-start;
-  gap: 10px; /* Adjust the gap between buttons as needed */
+  gap: 10px; 
 }
 
 .vertical-menu button {
   padding: 10px 20px;
-  background-color: transparent; /* Set background to none */
-  border: none; /* Remove border */
-  border-radius: 0; /* Remove border-radius */
+  background-color: transparent; 
+  border: none; 
+  border-radius: 0; 
   text-align: left;
-  width: 100%; /* Make buttons take full width */
-  font-size: 16px; /* Set desired font size */
-  font-weight: bold; /* Set desired font weight */
-  color: #333; /* Set desired font color */
+  width: 100%; 
+  font-size: 16px; 
+  font-weight: bold; 
+  color: #333; 
   cursor: pointer;
-  transition: background-color 0.3s ease; /* Add a smooth transition effect */
+  transition: background-color 0.3s ease;
   
 }
 
 .vertical-menu button:hover {
-  background-color: #f0f0f0; /* Change background on hover */
+  background-color: #f0f0f0; 
 }

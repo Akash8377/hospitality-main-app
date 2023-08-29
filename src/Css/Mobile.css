@@ -1,4 +1,4 @@
-/** @format */
+
 
 @media (max-width: 768px) {
   .Navbar {
@@ -506,7 +506,7 @@
     display: block;
   }
   .courses_overflow .contact-us-overflow-main .Content .Main .search {
-    /* display: block; */
+    
     width: 100%;
   }
   .courses_overflow .contact-us-overflow-main .Content .icon-div {
